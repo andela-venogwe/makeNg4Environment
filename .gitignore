@@ -1,0 +1,13 @@
+node_modules
+src
+.vscode
+.env
+.idea
+.idea/cef-api.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/watcherTasks.xml
+.idea/workspace.xml
+.DS_Store
