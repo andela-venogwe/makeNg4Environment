@@ -1,10 +1,10 @@
 {
-  "name": "makeng4nvironrment",
-  "version": "1.0.0",
+  "name": "makeng4nvironment",
+  "version": "1.0.1",
   "description": "Environment Variable File(env.ts) creator for Angular 2/4 CLI projects",
   "main": "./dist/makeNgEnvironment.js",
   "bin": {
-    "makeng4nvironrment": "./dist/index.js"
+    "makeng4nvironment": "./dist/index.js"
   },
   "scripts": {
     "build": "rimraf dist/ && babel ./ --out-dir dist/ --ignore ./node_modules,./test,./coverage",
